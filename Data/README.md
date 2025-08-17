@@ -39,14 +39,14 @@ pip install -r requirements.txt
 
 Open Jupyter Notebook:
 ```bash
-jupyter notebook
+jupyter notebook PCD + PIH + NDH.ipnyb
 ```
 
 ### 🛠 **Requirements**
 
 Python 3.8+
 
-Jupyter Notebook
+Jupyter Notebook notebook
 
 Common data science libraries (NumPy, Pandas, etc.)
 
